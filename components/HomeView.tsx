@@ -870,7 +870,7 @@ export default function HomeView() {
             width={140}
             height={74}
           />
-          <p>Specialty Coffee &amp; Brunch with Heart · Hecho con calidez en el barrio.</p>
+          <p>Specialty Coffee &amp; Brunch with Heart</p>
           <small>© {currentYear} Linda. Todos los derechos reservados.</small>
         </div>
       </footer>
